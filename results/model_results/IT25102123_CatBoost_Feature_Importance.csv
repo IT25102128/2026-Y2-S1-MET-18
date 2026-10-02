@@ -1,0 +1,12 @@
+Feature,Importance
+loan_percent_income,22.58210814884041
+person_home_ownership,15.350096919982741
+person_income,14.669087743692128
+loan_grade,14.315634990400367
+loan_intent,12.541450941438804
+person_emp_length,6.578175812577661
+loan_int_rate,4.035371490577119
+loan_amnt,3.8708672360335856
+person_age,3.6939540467577525
+cb_person_cred_hist_length,1.8786282136282229
+cb_person_default_on_file,0.484624456071179
